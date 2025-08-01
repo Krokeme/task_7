@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Alice",
+        "company": "OpenAI",
+        "position": "Engineer",
+        "status": "pending"
+    },
+    {
+        "name": "Tom",
+        "company": "Goole",
+        "position": "Fixer",
+        "status": "awaiting"
+    }
+]
